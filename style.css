@@ -68,8 +68,10 @@ nav {
   justify-content: space-around;
   align-items: center;
   border-radius: 50px;
-  background-image: url("./assets/hero__bg.png");
-  width: 90vw;
+  background-image: url("./image/background.jpg");
+  background-image: url("./image/background.jpg");
+  background-image: repeating none;
+  width: 92vw;
   margin: auto;
   height: 742px;
   padding: 20px;
@@ -248,7 +250,7 @@ nav {
 footer {
   display: flex;
   border-radius: 30px;
-  background: url("./assets/hero__bg.png");
+  background: url("./image/background.jpg");
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
   height: 707px;
   width: 90vw;
